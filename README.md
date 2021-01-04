@@ -12,7 +12,7 @@ Webserver ->
 
 Installation:
 -------------
-You’ll need NodeJS(Latest or recommended version) and nom
+You’ll need NodeJS(Latest or recommended version) and npm
 Run `npm install --only=prod` to install are required packages necessary for the application.
 
 Starting:
